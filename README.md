@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+![1](https://github.com/Israttulin24/flutter_assignment_4/assets/135654667/087083b8-4efa-46bb-918e-a92235f01102)
 
-This project is a starting point for a Flutter application.
+![2](https://github.com/Israttulin24/flutter_assignment_4/assets/135654667/0e42eebb-53d7-4641-8786-2d9c8480ca62)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![3](https://github.com/Israttulin24/flutter_assignment_4/assets/135654667/ff34b49f-da84-4553-8dce-480b2ed46457)
